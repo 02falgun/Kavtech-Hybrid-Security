@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define primary colors used by the app. Adding white to resolve missing resource error. -->
+    <color name="white">#FFFFFF</color>
+</resources>

@@ -1,0 +1,3 @@
+<!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, visit https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
+
+This project is a Flutter-based cross-platform app with a Node.js/Express.js backend for hybrid cloud data security and privacy. Use modular MVVM structure, comment every function, and prefer reusable widgets/services. Android & iOS compatible. Core modules: Biometric Login, Hybrid Storage Manager, Compliance Checker (DPDP Act), AI Risk Detection (TensorFlow Lite), Unified Dashboard.

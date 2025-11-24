@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run Flutter App",
+      "type": "shell",
+      "command": "flutter run",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "Start Backend Server",
+      "type": "shell",
+      "command": "cd backend && npm install && npm start",
+      "group": "build",
+      "problemMatcher": []
+    }
+  ]
+}
